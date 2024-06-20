@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-View my Portfolio here : https://yadavharsh2002.github.io/OIBSIP-TASK-2-MY-PORTFOLIO/
+View my Portfolio here : https://yadavharsh2002.github.io/MY-PORTFOLIO/
